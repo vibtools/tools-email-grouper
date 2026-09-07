@@ -1,0 +1,6 @@
+{
+  "name": "Email Grouper",
+  "description": "Free browser-based bulk email grouper and cleaner tool by Vib Tools (grouper.vib.tools). 100% client-side privacy, instant batch delimiter splitting, deduplication, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
