@@ -15,7 +15,7 @@
 [![GitHub Org](https://img.shields.io/badge/organization-vibtools-181717?style=flat-square&logo=github)](https://github.com/vibtools)
 [![Maintained by](https://img.shields.io/badge/maintainer-@victorsteele-blueviolet?style=flat-square)](https://github.com/victorsteele)
 
-[Live App](https://grouper.vib.tools/) &bull; [Vib Tools Official](https://vib.tools/) &bull; [Report Bug](https://github.com/vibtools/email-grouper/issues) &bull; [Request Feature](https://github.com/vibtools/email-grouper/issues)
+[Live App](https://grouper.vib.tools/) &bull; [Vib Tools Official](https://vib.tools/) &bull; [Report Bug](https://github.com/vibtools/tools-email-grouper/issues) &bull; [Request Feature](https://github.com/vibtools/tools-email-grouper/issues)
 
 </div>
 
@@ -72,8 +72,8 @@ Access the production application immediately at:
 #### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/vibtools/email-grouper.git
-cd email-grouper
+git clone https://github.com/vibtools/tools-email-grouper.git
+cd tools-email-grouper
 
 # Install dependencies
 npm install
